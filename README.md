@@ -1,2 +1,2 @@
-# sydorivskyi.gihub.io
+# sydorivskyi.github.io
 Hello world
